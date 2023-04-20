@@ -30,11 +30,11 @@ truffle run verify ChainERC20 --network sepolia
 https://sepolia.etherscan.io/address/0xdf8ad2dab1809b3c4d0bc25b84e2bb557fcd2920
 ```
 ###增发前查询
-![image]()
+![image](https://github.com/DDLOVECC/web3/blob/master/addbefore.png)
 
 ###增发后查询
-![image]()
+![image](https://github.com/DDLOVECC/web3/blob/master/addafter.png)
 ###销毁前查询
-![image]()
+![image](https://github.com/DDLOVECC/web3/blob/master/burnBefore.png)
 ###销毁后查询
-![image]()
+![image](https://github.com/DDLOVECC/web3/blob/master/burnafter.png)
