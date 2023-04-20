@@ -29,4 +29,12 @@ truffle run verify ChainERC20 --network sepolia
 ```sh
 https://sepolia.etherscan.io/address/0xdf8ad2dab1809b3c4d0bc25b84e2bb557fcd2920
 ```
+###增发前查询
+![image]()
 
+###增发后查询
+![image]()
+###销毁前查询
+![image]()
+###销毁后查询
+![image]()
